@@ -1,6 +1,6 @@
 
 
-Technology and Self-Publishing 
+#Technology and Self-Publishing 
 
 
 The Internet has toppled empires but new gatekeepers are rising to take their place. There's a lot of rhetoric about the liberating power of the Internet and the amazing wonderful freedom of communication it can enable. But there are many problems.
@@ -15,23 +15,23 @@ The situation is unsustainable, because content producers do, in the end, need t
 
 It's up to the writer to make the best of this situation, and each writer has to figure out their own monetization strategy. How will you make your work put food on the table? It's a complicated question and there is no simple answer. You might not want to monetize too quickly. Building up skill and a body of work and a following all are essential, and you can do those by publishing free content. 
 
-When you're ready to try and assign a value to your work, these are the options for doing it yourself. For the non-DIY, traditional publishing route, and how getting geeky about your process can help, see the Electronic Submissions chapter[link]. 
+When you're ready to try and assign a value to your work, these are the options for doing it yourself. For the non-DIY, traditional publishing route, and how getting geeky about your process can help, see the Electronic Submissions chapter[link to come]. 
 
-Print On Demand
+###Print On Demand
 
-E-Books
+###E-Books
 
-Vanity Publishing
+###Vanity Publishing
 
-Small Publishers
+###Small Publishers
 
 Why do I include small publishers among other self-publishing options? Because with a small publisher (depending on how small) you may still end up being largely on your own in marketing your writing, getting the word out about your book, etc. What is the point, then? It all depends on what the publisher can offer and what kind of deal you think you can get. The hole left by traditional publishers as they've consolidated and then been further hollowed out by the Internet is a large one. New, lean independent publishind houses like McSweeney's have found an opportunity to introduce new work. It might be that any help you can get is time you'll spend better by doing more writing, and less worrying about book designs and marketing emails. Any small publisher you're likely to work with isn't doing it for the money anyways; the publishing industry has always relied on narrow margins and people who did it because they cared. Full disclosure: I'm in the process of building my own small publishing operation.   
 
-#Traditional Self-Publishing
+###Traditional Self-Publishing
 
 What if you want a greater degree of control, and are working with a limited budget and need to make the absolute most of it? Traditional self-publishing, by which I mean working directly with a printer, or even printing the books yourself physically, as well as closely managing other aspects of the business such as your own e-commerce operation, offer another route. 
 
-This is further explored in the chapter on DIY Printing[link].
+This is further explored in the chapter on DIY Printing [link to come].
 
 
 
