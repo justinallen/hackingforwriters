@@ -1,5 +1,4 @@
-
-The Perfect Writing Machine
+#The Perfect Writing Machine
 
 Recording and sharing text is not a very difficult technical problem compared to many others, and was already solved at the dawn of the Internet and the personal computer. The original Macintosh computer, in 1984, may have been the perfect writing machine, and since then we’re only getting refinements. It met the most important requirements: a simple and efficient way to record text, format it, print it and share it electronically.
 
