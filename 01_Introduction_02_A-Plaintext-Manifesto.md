@@ -1,4 +1,4 @@
-A Plaintext Manifesto
+#A Plaintext Manifesto
 
 We live in a world made of text. All of us do, in the digital era, but more specifically, both writers and programmers do. Not all writers can be programmers, or should be. But of all the people whose professions are being revolutionized by digital technology, writers are uniquely suited to understand the tools and systems they use, and the overlap they have with their own craft. 
 
