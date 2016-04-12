@@ -2,7 +2,9 @@
 
 Writing in the 21st Century has already gone digital, and reading is rapidly following. The computer long ago conquered the typewriter. We increasingly read on screens, rather than on printed material; whether that's the glowing surface of a monitor, or the flat paperlike sheen of an e-ink reader.
 
-This book takes it as a given that technology is how writers are working today, and b) assumes that if well-informed writers and readers are to take full control of the digital technology at their fingertips, they can enrich their world and extend their audiences in countless ways.
+This book takes it as a given that technology is how writers are working today, and b) assumes that if well-informed writers and readers are to take full control of the digital technology at their fingertips, they can enrich their world and extend their audiences.
+
+We live in a world made of text. All of us do, in the digital age, but more specifically, both writers and programmers do. Not all writers can be programmers, or should be. But of all the people whose professions are being revolutionized by digital technology, writers are uniquely suited to understand the tools and systems they use, and the overlap they have with their own craft.
 
 The theory behind the book's attitude, and the explanation for the inclusion of the word "hacking" in its title, is this, in a nutshell: use technology before it uses you. Or in the words of Douglas Rushkoff, "program or be programmed." Some writers and artists have turned to a romantic gaze towards the past as a response to quite accurately recognizing the new media landscape as one with troubling tendencies towards domination by large, corporate forces and simultaneously, a demonetization of creative work. Others have dove deep into technology without a second glance.
 
