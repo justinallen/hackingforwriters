@@ -14,7 +14,7 @@ The writer comfortable with text as code is less imprisoned by the world of digi
 
 This manifesto is an argument with two simple points - a recommendation and a strategy behind it:
 
-1. Writers should compose in plaintext and shun the bloated pieces of machinery known as "Word Processors." This is not just minimalism. It has a lot of practical value. I also will argue that it also has an aesthetic value. 
+1. Writers should compose in plaintext and avoid bloated Word Processor software. This is not just minimalism. It has a lot of practical value. But it also offers an aesthetic edge, in the form of simplicity. 
 2. By authoring their work in plaintext, and working in plaintext wherever possible, writers  position themselves to take control of their work technologically: they will be able to fluidly transform their work to different formats, rapidly publish it across platforms, and create semantically meaningful structures for presenting their work that match its intent. 
 
 There are drawbacks to working in plaintext. The lack of paragraph indentation, the lack of features like "track changes" for collaborative editing, and so on. And yet, the more of us writers work in plaintext, composing our prose using plaintext, the more tools will appear to let us comfortably do everything we'd wish to in a rich text editor without confining our work to word processing software.
